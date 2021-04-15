@@ -1,0 +1,6 @@
+Jumlah_Curah_Hujan,Keterangan
+0-20,Hujan_Ringan
+20-50,Hujan_Sedang
+Lebih_dari_60,Hujan_Lebat
+Lebih_dari_120,HUjan_Ekstrim
+
